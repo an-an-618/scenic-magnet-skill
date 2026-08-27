@@ -1,0 +1,5 @@
+interface:
+  display_name: "景铸 · Scenic Magnet"
+  short_description: "Turns photos into metallic scenic magnet miniatures"
+  default_prompt: "Use $scenic-magnet-v1 to turn this photo into one finished 4:3 metallic micro-landscape refrigerator magnet."
+
