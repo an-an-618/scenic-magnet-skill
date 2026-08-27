@@ -1,0 +1,9 @@
+.DS_Store
+.deps/
+__pycache__/
+*.pyc
+output/
+tmp/
+evals/local/
+evals/test-images.local.md
+
